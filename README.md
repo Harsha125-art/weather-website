@@ -25,7 +25,11 @@ It fetches real-time weather data using the **OpenWeatherMap API**.
 
 # 📸 Screenshots
 
+### Main View
+![Main view](main view.png)
 
+### Night Mode Example
+![Night mode](dark view.png)
 
 # 📁 Tech Stack
 
