@@ -26,10 +26,10 @@ It fetches real-time weather data using the **OpenWeatherMap API**.
 # 📸 Screenshots
 
 ### Main View
-![Main view](main view.png)
+![Main view](https://github.com/Harsha125-art/weather-website/blob/ced8d6dfd97a88c6b33a2efc3905e70343599dda/main%20view.png)
 
 ### Night Mode Example
-![Night mode](dark view.png)
+![Night mode](https://github.com/Harsha125-art/weather-website/blob/ced8d6dfd97a88c6b33a2efc3905e70343599dda/dark%20view.png)
 
 # 📁 Tech Stack
 
